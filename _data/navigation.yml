@@ -1,0 +1,82 @@
+- title: Start
+  url: "/"
+  side: left
+
+#- title: Getting Started
+#  url: "/getting-started/"
+#  side: left
+
+- title: "Bababi"
+  url: "/bababi/"
+  side: left
+  dropdown:
+  - title: "Ăn uống"
+    url: "/bababi/anuong/"
+  - title: "Sức khoẻ"
+    url: "/bababi/suckhoe/"
+  - title: "Chơi&học"
+    url: "/bababi/choihoc/"
+  - title: "phattrien"
+    url: "/bababi/phattrien/"
+
+
+
+
+#- title: "Header Styles"
+#  url: "/headers/"
+#  side: left
+#  dropdown:
+#  - title: "Header with Full-Width-Image"
+#    url: "/design/header-full-width-image/"
+#  - title: "Header with Image and Pattern"
+#    url: "/design/header-image-pattern/"
+#  - title: "Header with image and color"
+#    url: "/design/header-image-color/"
+#  - title: "Header Only With Logo"
+#    url: "/design/header-logo-only/"
+#  - title: "Header With Text"
+#    url: "/design/header-with-text/"
+#  - title: "No Header"
+#    url: "/design/no-header/"
+#  - title: "No Header but Image"
+#    url: "/design/no-header-but-image/"
+
+
+
+
+
+#- title: "Search"
+#  url: "/search/"
+#  side: right
+- title: "Mamami"
+  url: "/mamami/"
+  side: left
+  dropdown:
+  - title: "banh"
+    url: "/banh/"
+  - title: "mon-viet"
+    url: "/mon-viet/"
+  - title: "mon-tay"
+    url: "/mon-tay/"
+    
+- title: "Papapi"
+  url: "/papapi/"
+  side: left
+  dropdown:
+  - title: "tu-hoc-MBA"
+    url: "/tu-hoc-MBA/"
+  - title: "giai-tri"
+    url: "/giai-tri/"
+
+
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

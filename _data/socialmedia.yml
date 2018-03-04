@@ -1,0 +1,49 @@
+- name: 
+  url: http://github.com/
+  class: icon-github
+  title: Code
+
+- name: Papapi YouTube
+  url: https://www.youtube.com/channel/UCnU7xGKe-3jMTn_6ndzYesw
+  class: icon-youtube
+  title: "Youtube cua Papapi"
+
+- name: Papapi Twitter
+  url: http://twitter.com/papapi2u
+  class: icon-twitter
+  title: "This is Papapi's Twitter"
+
+- name: Papapi Mixcloud
+  url: http://www.mixcloud.com/papapi2u/
+  class: icon-cloud
+  title: "My mix radio"
+
+- name: Papapi  Google+
+  url: https://plus.google.com/u/0/105534074338100183850
+  class: icon-googleplus
+  title: "Papapi Google+"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
